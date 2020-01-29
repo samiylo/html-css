@@ -7,6 +7,12 @@ html {
     font-family: "Solway", serif;
     
 }
+#nav {
+    font-size: 20px;
+    color: skyblue;
+    text-decoration: none;
+    display: inline-block;
+}
 
 h1 {
     font-size: 70px;
@@ -18,7 +24,7 @@ h1 {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
     color: white;
     margin-left: 10%;
     margin-right: 10%;
@@ -47,6 +53,14 @@ footer {
 .music {
     display: block;
     margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+
+.art {
+    display: block;
+    margin-top: auto;
     margin-left: auto;
     margin-right: auto;
     height: 200px;
