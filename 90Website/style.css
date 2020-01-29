@@ -25,6 +25,14 @@ h2 {
     margin-right: 10%;
 }
 
+p {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 img {
     display: block;
     margin: 0 auto;
