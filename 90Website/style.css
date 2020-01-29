@@ -1,11 +1,10 @@
 html {
     background: url(pics/synth_backround.jpg) no-repeat center;
-    -we
 }
 
 html {
     font-size: 10px;
-    font-family: "Solway", serif:
+    font-family: "Solway", serif;
     
 }
 
@@ -23,6 +22,9 @@ h2 {
     color: white;
     margin-left: 10%;
     margin-right: 10%;
+}
+body {
+    text-align: center;
 }
 
 p {
