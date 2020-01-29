@@ -35,6 +35,8 @@ body {
 
 p {
     text-align: left;
+    padding: 10px;
+    border: solid skyblue;
     color: white;
     font-size: 20px;
     margin-left: 10%;
@@ -43,12 +45,20 @@ p {
 
 img {
     align-self: top;
+    padding: auto;
     display: block;
-    margin: 0 auto;
+    margin: auto;
 }
 
 footer {
     scroll-margin-block-end: 10px;
+}
+.nav_bar {
+    background-color: skyblue;
+    border-bottom-width: 3px;
+    border-bottom-color: rgb(209, 0, 209);
+    border-bottom-style: solid;
+    
 }
 
 .music {
