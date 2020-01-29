@@ -42,6 +42,7 @@ p {
 }
 
 img {
+    align-self: top;
     display: block;
     margin: 0 auto;
 }
