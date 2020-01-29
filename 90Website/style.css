@@ -1,0 +1,39 @@
+html {
+    background: url(pics/synth_backround.jpg) no-repeat center;
+    -we
+}
+
+html {
+    font-size: 10px;
+    font-family: "Solway", serif:
+    
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: rgb(209, 0, 209);
+    text-shadow: skyblue;
+    
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.music {
+    display: block;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
