@@ -9,6 +9,26 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+        * {
+            font-family: 'Open Sans', sans-serif;
+        }
+        .nav {
+            background-color: lightcyan;
+            height: 70px;
+            justify-content: space-between;
+            align-items: center;
+            /* position: fixed; */
+        }
+        .title {
+            align-items: center;
+            justify-content: center;
+            font-size: 70px;
+            color: white;
+            height: 300px;
+            /* margin: 10px; */
+            background-color: lightpink;
+        }
         .red {
             background-color: indianred;
         }
@@ -18,12 +38,28 @@
         .h800 {
             height: 1000px;
         }
+        .h70 {
+            height: 70px;
+        }
+        
     </style>
 </head>
     <body>
         <div class="container-fluid red h800 ">
             
-            <div class="row">Nav</div>
+            <div class="row fixed-top nav">
+                <div class="col-8">Company Name</div>
+                <div class="co-1">Home</div>
+                <div class="col-1">Products</div>
+                <div class="col-1">Company</div>
+                <div class="col-1">Blog</div>
+            </div>
+            <div class="row title">
+                <t>My Homework with Bootstrap</t>
+            </div>
+            <div class="row">
+                
+            </div>
         </div>
 
     <!-- Optional JavaScript -->
